@@ -1,0 +1,40 @@
+//version instalada de Go
+go version
+
+//variables de entorno de la instalacion de Go
+go env 
+
+//ver informacion de ayuda sobre los comandos de Go
+go help
+go help build
+go help gopath
+go help install
+go help fmt //<-- formatea el codigo de Go de manera idiomática
+go fmt ./.. //<-- formatea todos los archivos Go ubicados en el directorio
+go run *.go // ejecuta toos los archivos con extensión .go
+
+//
+go build main.go //<--compila crea y ejecuta un archivo binario en el directorio. 
+
+go install //<--crea un binario y lo ubica en el directorio de los binarios de Go /usr/local/go/bin
+//GOPATH
+
+
+//git
+
+git init 
+git status
+git add --all  
+git commit -m "mi primer commit"
+git log //<-- registro de todos los commit
+rm -rf .git //<--Elimina el archivo .git del directorio indicado 
+//esto permitira eliminar el git init
+ 
+ //Compilacion cruzada
+//especifica la arquitecturay sistema operativo para el cual se hace build 
+
+//paquetes 
+//git remote -get-url "nombre"
+git remote -get-url origin
+
+//paquetes
