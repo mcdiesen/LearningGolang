@@ -1,2 +1,2 @@
 # LearningGolang
-Exercise for lear Golang Programming language
+Exercises for learn Golang Programming language
