@@ -1,4 +1,5 @@
 //Package test main
+//Tabla de pruebas
 package main
 
 func main() {
@@ -6,7 +7,6 @@ func main() {
 	//fmt.Println("La suma de 6+4 es: ", miSuma(6, 4))
 
 	//fmt.Println("La suma de 10+4 es: ", miSuma(10, 4))
-	miSuma(2, 3, 4)
 }
 
 func miSuma(xi ...int) int {
