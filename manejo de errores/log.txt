@@ -1,0 +1,1 @@
+2022/01/19 13:57:18 Un error ocurrio open sin_archivo.txt: no such file or directory
