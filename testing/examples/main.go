@@ -1,8 +1,10 @@
 package main
 
-import ("fmt"
-		"github.com/mcdiesen/LearningGolang/testing/exampleTest/"
-	)
+import (
+	"fmt"
+
+	"github.com/mcdiesen/LearningGolang/testing/examples/mate/"
+)
 
 func main() {
 
